@@ -1,0 +1,7 @@
+{
+  "calls": 168,
+  "approx_input_tokens": 116782,
+  "approx_output_tokens": 23520,
+  "episodes": 50,
+  "note": "approximate: characters/4; multiply by your provider's per-token prices"
+}

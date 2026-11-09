@@ -1,0 +1,366 @@
+{
+  "hard_checks": [
+    {
+      "check": "length_20_60s",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 134
+    },
+    {
+      "check": "segments_inside_episode",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 134
+    },
+    {
+      "check": "segments_ordered_no_overlap",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 134
+    },
+    {
+      "check": "no_cut_through_a_spoken_line",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 134
+    },
+    {
+      "check": "hook_within_3s",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 134
+    },
+    {
+      "check": "quotes_exist_in_source",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 134
+    },
+    {
+      "check": "distinct_within_episode",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 134
+    },
+    {
+      "check": "ranked_by_score",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 134
+    },
+    {
+      "check": "unique_ids",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 134
+    }
+  ],
+  "cliffhanger_notes": {
+    "rows": [
+      {
+        "episode": 1,
+        "keys": [
+          "altar",
+          "aristocratic",
+          "congregation",
+          "devastat",
+          "entire",
+          "gerald",
+          "leav"
+        ],
+        "v2_top1_recall": 0.14,
+        "v2_top1_hit": false,
+        "v2_anyTopK_hit": true,
+        "v1_top1_hit": false,
+        "v1_anyTopK_hit": false,
+        "last_window_hit": true,
+        "random_rate": 0.07,
+        "v2_top1_window": "46.8-81.4s",
+        "episode_len": 138.0,
+        "note": "Gerald has turned away from Juliana at the altar, leaving her devastated before the entire aristocratic congregation"
+      },
+      {
+        "episode": 3,
+        "keys": [
+          "altar",
+          "beard",
+          "dropp",
+          "mysteriou",
+          "present",
+          "ring"
+        ],
+        "v2_top1_recall": 0.0,
+        "v2_top1_hit": false,
+        "v2_anyTopK_hit": true,
+        "v1_top1_hit": false,
+        "v1_anyTopK_hit": false,
+        "last_window_hit": true,
+        "random_rate": 0.3,
+        "v2_top1_window": "11.1-43.3s",
+        "episode_len": 145.8,
+        "note": "where the Mysterious Bearded Man dropped to one knee before the altar, presenting a ring to Lady Juliana"
+      },
+      {
+        "episode": 11,
+        "keys": [
+          "constable",
+          "gerald",
+          "plant",
+          "pocket",
+          "trench"
+        ],
+        "v2_top1_recall": 0.4,
+        "v2_top1_hit": true,
+        "v2_anyTopK_hit": true,
+        "v1_top1_hit": false,
+        "v1_anyTopK_hit": true,
+        "last_window_hit": true,
+        "random_rate": 0.89,
+        "v2_top1_window": "8.2-61.8s",
+        "episode_len": 112.8,
+        "note": "where the Constable pulls Gerald's planted gold pocket watch from Alexander's trench coat"
+      },
+      {
+        "episode": 13,
+        "keys": [
+          "blackthorn",
+          "emerald",
+          "grasp",
+          "razor",
+          "ring"
+        ],
+        "v2_top1_recall": 0.2,
+        "v2_top1_hit": false,
+        "v2_anyTopK_hit": true,
+        "v1_top1_hit": false,
+        "v1_anyTopK_hit": false,
+        "last_window_hit": true,
+        "random_rate": 0.13,
+        "v2_top1_window": "12.4-55.8s",
+        "episode_len": 118.9,
+        "note": "where Juliana grasped the emerald ring beneath the razor-sharp blackthorns"
+      },
+      {
+        "episode": 15,
+        "keys": [
+          "confront",
+          "garden",
+          "huddl",
+          "injur",
+          "moonlit",
+          "three",
+          "thug"
+        ],
+        "v2_top1_recall": 0.29,
+        "v2_top1_hit": false,
+        "v2_anyTopK_hit": false,
+        "v1_top1_hit": false,
+        "v1_anyTopK_hit": false,
+        "last_window_hit": false,
+        "random_rate": 0.0,
+        "v2_top1_window": "34.8-86s",
+        "episode_len": 86.0,
+        "note": "where Alexander confronted the three thugs in the moonlit garden while Juliana huddled injured on the ground"
+      },
+      {
+        "episode": 20,
+        "keys": [
+          "ashbury",
+          "demise",
+          "dowag",
+          "plott",
+          "rupert",
+          "seize"
+        ],
+        "v2_top1_recall": 0.33,
+        "v2_top1_hit": false,
+        "v2_anyTopK_hit": false,
+        "v1_top1_hit": false,
+        "v1_anyTopK_hit": true,
+        "last_window_hit": false,
+        "random_rate": 0.03,
+        "v2_top1_window": "2.8-39.1s",
+        "episode_len": 114.8,
+        "note": "where Catherine and Rupert plotted to seize Ashbury upon the Dowager Duchess's demise"
+      },
+      {
+        "episode": 23,
+        "keys": [
+          "bedchamb",
+          "bras",
+          "confront",
+          "intrud",
+          "latch",
+          "prudence",
+          "swing",
+          "unexpect",
+          "west",
+          "wing"
+        ],
+        "v2_top1_recall": 0.1,
+        "v2_top1_hit": false,
+        "v2_anyTopK_hit": false,
+        "v1_top1_hit": false,
+        "v1_anyTopK_hit": false,
+        "last_window_hit": false,
+        "random_rate": 0.0,
+        "v2_top1_window": "58.5-84s",
+        "episode_len": 131.5,
+        "note": "inside the West Wing bedchamber, as the brass latch turns and the door swings open to reveal an unexpected intruder conf"
+      },
+      {
+        "episode": 26,
+        "keys": [
+          "dowag",
+          "frantical",
+          "origin",
+          "question",
+          "recogniz",
+          "ring",
+          "signet"
+        ],
+        "v2_top1_recall": 0.14,
+        "v2_top1_hit": false,
+        "v2_anyTopK_hit": true,
+        "v1_top1_hit": false,
+        "v1_anyTopK_hit": true,
+        "last_window_hit": true,
+        "random_rate": 0.35,
+        "v2_top1_window": "14.2-62s",
+        "episode_len": 120.9,
+        "note": "where the Dowager Duchess gripped Juliana's hand upon recognizing the family signet ring, frantically questioning her or"
+      },
+      {
+        "episode": 31,
+        "keys": [
+          "brand",
+          "glow",
+          "herbal",
+          "scorch",
+          "used"
+        ],
+        "v2_top1_recall": 0.0,
+        "v2_top1_hit": false,
+        "v2_anyTopK_hit": true,
+        "v1_top1_hit": false,
+        "v1_anyTopK_hit": false,
+        "last_window_hit": true,
+        "random_rate": 0.07,
+        "v2_top1_window": "48.5-80.2s",
+        "episode_len": 160.0,
+        "note": "where Catherine used a glowing branding iron to scorch Juliana's mother's herbal book"
+      },
+      {
+        "episode": 45,
+        "keys": [
+          "challeng",
+          "church",
+          "legality",
+          "marriage",
+          "priest",
+          "royal",
+          "storm"
+        ],
+        "v2_top1_recall": 0.0,
+        "v2_top1_hit": false,
+        "v2_anyTopK_hit": false,
+        "v1_top1_hit": false,
+        "v1_anyTopK_hit": true,
+        "last_window_hit": false,
+        "random_rate": 0.2,
+        "v2_top1_window": "27.6-74.5s",
+        "episode_len": 121.8,
+        "note": "where the High Priest stormed into the church with royal guards and challenged the legality of Alexander and Juliana's m"
+      }
+    ],
+    "n": 10,
+    "k": 3,
+    "tail_s": 15.0,
+    "recall_threshold": 0.4,
+    "v2_top1_hits": 1,
+    "v2_anyk_hits": 6,
+    "v1_top1_hits": 0,
+    "v1_anyk_hits": 4,
+    "last_window_hits": 6,
+    "random_expected_hits": 2.0
+  },
+  "human_agreement": {
+    "rows": [
+      {
+        "episode": 1,
+        "human": "0-40s",
+        "random_hit_prob": 0.37,
+        "v2_top1_iou": 0.0,
+        "v2_best_of_top3_iou": 0.41,
+        "v1_best_of_top3_iou": 0.75,
+        "v2_hit": false,
+        "v1_hit": true
+      },
+      {
+        "episode": 11,
+        "human": "0-60s",
+        "random_hit_prob": 0.71,
+        "v2_top1_iou": 0.84,
+        "v2_best_of_top3_iou": 0.84,
+        "v1_best_of_top3_iou": 0.69,
+        "v2_hit": true,
+        "v1_hit": true
+      },
+      {
+        "episode": 28,
+        "human": "0-48s",
+        "random_hit_prob": 0.42,
+        "v2_top1_iou": 1.0,
+        "v2_best_of_top3_iou": 1.0,
+        "v1_best_of_top3_iou": 0.54,
+        "v2_hit": true,
+        "v1_hit": true
+      },
+      {
+        "episode": 11,
+        "human": "0-54s",
+        "random_hit_prob": 0.71,
+        "v2_top1_iou": 0.74,
+        "v2_best_of_top3_iou": 0.74,
+        "v1_best_of_top3_iou": 0.6,
+        "v2_hit": true,
+        "v1_hit": true
+      },
+      {
+        "episode": 22,
+        "human": "6.5-58.5s",
+        "random_hit_prob": 0.67,
+        "v2_top1_iou": 0.03,
+        "v2_best_of_top3_iou": 0.62,
+        "v1_best_of_top3_iou": 0.58,
+        "v2_hit": true,
+        "v1_hit": true
+      }
+    ],
+    "k": 3,
+    "iou_threshold": 0.5,
+    "random_expected_hits": 2.88,
+    "v2_hits": 4,
+    "v1_hits": 5,
+    "n": 5,
+    "rejected_cases": [
+      {
+        "episode": 46,
+        "rejected_window": "0-60s",
+        "v2_top1_window": "89.2-143.8s",
+        "iou_with_rejected": 0.0,
+        "v2_top1_flags": [],
+        "v2_top1_cliffhanger": "CATHERINE (whispering, malicious): \u201cTen days is plenty of time.\u201d"
+      }
+    ]
+  }
+}

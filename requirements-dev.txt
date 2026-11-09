@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest==9.2.0
+reportlab==5.1.0   # only to rebuild docs/Kuku_Promo_Finder_Solution.pdf
+pypdf==7.0.0   # only to check the PDF page count

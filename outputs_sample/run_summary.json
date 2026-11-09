@@ -1,0 +1,29 @@
+{
+  "tool_version": "2.0.0",
+  "python": "3.13.14",
+  "input": "sample_data",
+  "episodes": 3,
+  "candidate_windows": 1036,
+  "promos": 6,
+  "recommended": 6,
+  "judge": "heuristic",
+  "config": {
+    "per_episode": 3,
+    "min_s": 20.0,
+    "max_s": 60.0,
+    "max_overlap": 0.25,
+    "judge": "heuristic",
+    "llm_topk": 6,
+    "llm_weight": 0.6,
+    "max_llm_calls": null,
+    "include_episode_end": true,
+    "stitch": false,
+    "recommended_top": 15,
+    "max_recommended_per_episode": 2
+  },
+  "seconds": 0.08,
+  "llm_usage": {},
+  "notes": [],
+  "parse_errors": [],
+  "hard_checks_passed": true
+}

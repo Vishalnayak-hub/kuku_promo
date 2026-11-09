@@ -1,0 +1,103 @@
+{
+  "hard_checks": [
+    {
+      "check": "length_20_60s",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 6
+    },
+    {
+      "check": "segments_inside_episode",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 6
+    },
+    {
+      "check": "segments_ordered_no_overlap",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 6
+    },
+    {
+      "check": "no_cut_through_a_spoken_line",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 6
+    },
+    {
+      "check": "hook_within_3s",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 6
+    },
+    {
+      "check": "quotes_exist_in_source",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 6
+    },
+    {
+      "check": "distinct_within_episode",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 6
+    },
+    {
+      "check": "ranked_by_score",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 6
+    },
+    {
+      "check": "unique_ids",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "n": 6
+    }
+  ],
+  "cliffhanger_notes": {
+    "rows": [
+      {
+        "episode": 1,
+        "keys": [
+          "drown",
+          "fath",
+          "inspector",
+          "mara",
+          "never",
+          "reveal",
+          "vance"
+        ],
+        "v2_top1_recall": 0.86,
+        "v2_top1_hit": true,
+        "v2_anyTopK_hit": true,
+        "v1_top1_hit": false,
+        "v1_anyTopK_hit": false,
+        "last_window_hit": true,
+        "random_rate": 0.62,
+        "v2_top1_window": "27.6-76.8s",
+        "episode_len": 77.6,
+        "note": "where Inspector Vance reveals that Mara's father never drowned"
+      }
+    ],
+    "n": 1,
+    "k": 3,
+    "tail_s": 15.0,
+    "recall_threshold": 0.4,
+    "v2_top1_hits": 1,
+    "v2_anyk_hits": 1,
+    "v1_top1_hits": 0,
+    "v1_anyk_hits": 0,
+    "last_window_hits": 1,
+    "random_expected_hits": 0.6
+  }
+}

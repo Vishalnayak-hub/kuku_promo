@@ -1,0 +1,774 @@
+[
+  {
+    "promo_id": "EP002_00100_04600",
+    "episode": 2,
+    "segments": [
+      {
+        "episode": 2,
+        "start": 1.0,
+        "end": 46.0,
+        "start_ts": "00:01.00",
+        "end_ts": "00:46.00"
+      }
+    ],
+    "start_ts": "00:01.00",
+    "end_ts": "00:46.00",
+    "duration": 45.0,
+    "hook_at_s": 0.0,
+    "hook": "MARA (shaking, desperate): “Alive? You are lying.”",
+    "cliffhanger": "MARA (urgent, whispering): “Tobias, where would he hide it?”",
+    "cut_before": "TOBIAS (trembling): “In the lamp room. Behind the old brass lens.”",
+    "why": "Opens on a reveal, instant back-and-forth (MARA, shaking); 11 speaker turns, mainly MARA vs VANCE; ends on an unanswered question (+ lands on a short, charged line).",
+    "score": 70.14,
+    "parts": {
+      "hook": 18.0,
+      "cliffhanger": 15.0,
+      "standalone": 14.0,
+      "tension": 13.14,
+      "pace": 10.0
+    },
+    "flags": [],
+    "judge": "heuristic",
+    "llm": null,
+    "kind": "peak",
+    "stitched": false,
+    "ends_at_episode_end": false,
+    "needs_editor_check": false,
+    "transcript": [
+      {
+        "t": 0.0,
+        "speaker": "MARA",
+        "tags": [
+          "shaking",
+          "desperate"
+        ],
+        "text": "Alive? You are lying.",
+        "voiceover": false
+      },
+      {
+        "t": 2.8,
+        "speaker": "VANCE",
+        "tags": [
+          "calm",
+          "measured"
+        ],
+        "text": "Walk with me and I will prove it.",
+        "voiceover": false
+      },
+      {
+        "t": 7.3,
+        "speaker": "TOBIAS",
+        "tags": [
+          "urgent"
+        ],
+        "text": "Mara, don't. He is the reason the lamp went dark.",
+        "voiceover": false
+      },
+      {
+        "t": 12.8,
+        "speaker": "VANCE",
+        "tags": [
+          "sharp"
+        ],
+        "text": "Old man, hold your tongue.",
+        "voiceover": false
+      },
+      {
+        "t": 15.9,
+        "speaker": "MARA",
+        "tags": [
+          "furious"
+        ],
+        "text": "Don't you dare threaten him!",
+        "voiceover": false
+      },
+      {
+        "t": 19.5,
+        "speaker": "VANCE",
+        "tags": [
+          "soft",
+          "venomous"
+        ],
+        "text": "I do not threaten. I offer. Your father, for the ledger.",
+        "voiceover": false
+      },
+      {
+        "t": 24.6,
+        "speaker": "MARA",
+        "tags": [
+          "cold"
+        ],
+        "text": "I don't have the ledger.",
+        "voiceover": false
+      },
+      {
+        "t": 28.5,
+        "speaker": "VANCE",
+        "tags": [
+          "smug"
+        ],
+        "text": "Then you will find it. You have until the tide turns.",
+        "voiceover": false
+      },
+      {
+        "t": 34.0,
+        "speaker": "MARA",
+        "tags": [
+          "breathless"
+        ],
+        "text": "And if I refuse?",
+        "voiceover": false
+      },
+      {
+        "t": 36.8,
+        "speaker": "VANCE",
+        "tags": [
+          "low",
+          "threatening"
+        ],
+        "text": "Then Tobias pays for your father's sins.",
+        "voiceover": false
+      },
+      {
+        "t": 42.3,
+        "speaker": "MARA",
+        "tags": [
+          "urgent",
+          "whispering"
+        ],
+        "text": "Tobias, where would he hide it?",
+        "voiceover": false
+      }
+    ],
+    "rank": 1,
+    "rank_in_episode": 1,
+    "recommended": true
+  },
+  {
+    "promo_id": "EP002_04230_07730",
+    "episode": 2,
+    "segments": [
+      {
+        "episode": 2,
+        "start": 42.3,
+        "end": 77.3,
+        "start_ts": "00:42.30",
+        "end_ts": "01:17.30"
+      }
+    ],
+    "start_ts": "00:42.30",
+    "end_ts": "01:17.30",
+    "duration": 35.0,
+    "hook_at_s": 1.0,
+    "hook": "MARA (urgent, whispering): “Tobias, where would he hide it?”",
+    "cliffhanger": "DANIEL (furious): “Nobody runs from me!”",
+    "cut_before": "",
+    "why": "Opens on a pointed question (MARA, urgent); 8 speaker turns, mainly DANIEL vs MARA; lands on a short, charged line (+ ends where the episode itself ends).",
+    "score": 66.37,
+    "parts": {
+      "hook": 11.8,
+      "cliffhanger": 18.0,
+      "standalone": 15.0,
+      "tension": 11.57,
+      "pace": 10.0
+    },
+    "flags": [],
+    "judge": "heuristic",
+    "llm": null,
+    "kind": "episode-ending",
+    "stitched": false,
+    "ends_at_episode_end": true,
+    "needs_editor_check": false,
+    "transcript": [
+      {
+        "t": 1.0,
+        "speaker": "MARA",
+        "tags": [
+          "urgent",
+          "whispering"
+        ],
+        "text": "Tobias, where would he hide it?",
+        "voiceover": false
+      },
+      {
+        "t": 4.5,
+        "speaker": "TOBIAS",
+        "tags": [
+          "trembling"
+        ],
+        "text": "In the lamp room. Behind the old brass lens.",
+        "voiceover": false
+      },
+      {
+        "t": 9.7,
+        "speaker": "MARA",
+        "tags": [
+          "determined"
+        ],
+        "text": "Then we get there before Daniel does.",
+        "voiceover": false
+      },
+      {
+        "t": 13.7,
+        "speaker": "DANIEL",
+        "tags": [
+          "shouting",
+          "enraged"
+        ],
+        "text": "Stop right there, both of you!",
+        "voiceover": false
+      },
+      {
+        "t": 16.9,
+        "speaker": "MARA",
+        "tags": [
+          "defiant"
+        ],
+        "text": "You will not stop me.",
+        "voiceover": false
+      },
+      {
+        "t": 20.1,
+        "speaker": "DANIEL",
+        "tags": [
+          "cold",
+          "cruel"
+        ],
+        "text": "I do not need to stop you. I only need the key.",
+        "voiceover": false
+      },
+      {
+        "t": 25.8,
+        "speaker": "TOBIAS",
+        "tags": [
+          "pleading"
+        ],
+        "text": "Mara, run! He has a gun!",
+        "voiceover": false
+      },
+      {
+        "t": 30.0,
+        "speaker": "DANIEL",
+        "tags": [
+          "furious"
+        ],
+        "text": "Nobody runs from me!",
+        "voiceover": false
+      }
+    ],
+    "rank": 2,
+    "rank_in_episode": 2,
+    "recommended": true
+  },
+  {
+    "promo_id": "EP003_02450_07160",
+    "episode": 3,
+    "segments": [
+      {
+        "episode": 3,
+        "start": 24.5,
+        "end": 71.6,
+        "start_ts": "00:24.50",
+        "end_ts": "01:11.60"
+      }
+    ],
+    "start_ts": "00:24.50",
+    "end_ts": "01:11.60",
+    "duration": 47.1,
+    "hook_at_s": 0.3,
+    "hook": "DANIEL (furious, shouting): “Give me that letter!”",
+    "cliffhanger": "VANCE (smiling, cold): “I was here to make sure he never came home.”  → [SOUND_FX] A single gunshot cracks across the water.",
+    "cut_before": "",
+    "why": "Opens on a command, instant back-and-forth (DANIEL, furious); 11 speaker turns, mainly MARA vs DANIEL; ends on a sudden sound/arrival/impact (+ ends where the episode itself ends).",
+    "score": 66.12,
+    "parts": {
+      "hook": 18.0,
+      "cliffhanger": 20.0,
+      "standalone": 8.0,
+      "tension": 10.12,
+      "pace": 10.0
+    },
+    "flags": [],
+    "judge": "heuristic",
+    "llm": null,
+    "kind": "episode-ending",
+    "stitched": false,
+    "ends_at_episode_end": true,
+    "needs_editor_check": false,
+    "transcript": [
+      {
+        "t": 0.3,
+        "speaker": "DANIEL",
+        "tags": [
+          "furious",
+          "shouting"
+        ],
+        "text": "Give me that letter!",
+        "voiceover": false
+      },
+      {
+        "t": 2.8,
+        "speaker": "MARA",
+        "tags": [
+          "defiant",
+          "fierce"
+        ],
+        "text": "Never. It is the only proof I have.",
+        "voiceover": false
+      },
+      {
+        "t": 6.6,
+        "speaker": "DANIEL",
+        "tags": [
+          "low",
+          "threatening"
+        ],
+        "text": "Then I will take it from your cold hands.",
+        "voiceover": false
+      },
+      {
+        "t": 11.1,
+        "speaker": "TOBIAS",
+        "tags": [
+          "desperate"
+        ],
+        "text": "Mara, jump! The balcony!",
+        "voiceover": false
+      },
+      {
+        "t": 14.6,
+        "speaker": "MARA",
+        "tags": [
+          "terrified"
+        ],
+        "text": "It is forty feet to the rocks!",
+        "voiceover": false
+      },
+      {
+        "t": 18.1,
+        "speaker": "DANIEL",
+        "tags": [
+          "snarling"
+        ],
+        "text": "Choose, Mara. The letter or the fall.",
+        "voiceover": false
+      },
+      {
+        "t": 23.6,
+        "speaker": "MARA",
+        "tags": [
+          "shaking",
+          "resolute"
+        ],
+        "text": "My father trusted this place. So will I.",
+        "voiceover": false
+      },
+      {
+        "t": 27.4,
+        "speaker": "TOBIAS",
+        "tags": [
+          "pleading"
+        ],
+        "text": "Wait! Someone is coming up the cliff path!",
+        "voiceover": false
+      },
+      {
+        "t": 31.7,
+        "speaker": "VANCE",
+        "tags": [
+          "calm",
+          "chilling"
+        ],
+        "text": "Hand me the letter, Miss Hale, and nobody falls.",
+        "voiceover": false
+      },
+      {
+        "t": 36.7,
+        "speaker": "MARA",
+        "tags": [
+          "whispering",
+          "horrified"
+        ],
+        "text": "Vance. You were never here to help my father.",
+        "voiceover": false
+      },
+      {
+        "t": 40.9,
+        "speaker": "VANCE",
+        "tags": [
+          "smiling",
+          "cold"
+        ],
+        "text": "I was here to make sure he never came home.",
+        "voiceover": false
+      }
+    ],
+    "rank": 3,
+    "rank_in_episode": 1,
+    "recommended": true
+  },
+  {
+    "promo_id": "EP001_02760_07680",
+    "episode": 1,
+    "segments": [
+      {
+        "episode": 1,
+        "start": 27.6,
+        "end": 76.8,
+        "start_ts": "00:27.60",
+        "end_ts": "01:16.80"
+      }
+    ],
+    "start_ts": "00:27.60",
+    "end_ts": "01:16.80",
+    "duration": 49.2,
+    "hook_at_s": 0.3,
+    "hook": "DANIEL (shouting): “Tobias, get out of my office!”",
+    "cliffhanger": "VANCE (cold, smiling): “Long enough to know your father never drowned.”  → [SOUND_FX] A heavy iron door slams shut somewhere below.",
+    "cut_before": "",
+    "why": "Opens on an ultimatum (DANIEL, shouting); 11 speaker turns, mainly MARA vs TOBIAS; lands on a reveal (+ ends on a sudden sound/arrival/impact).",
+    "score": 63.25,
+    "parts": {
+      "hook": 16.0,
+      "cliffhanger": 18.0,
+      "standalone": 9.0,
+      "tension": 10.25,
+      "pace": 10.0
+    },
+    "flags": [
+      "ends on an answer (question resolved inside the clip)"
+    ],
+    "judge": "heuristic",
+    "llm": null,
+    "kind": "episode-ending",
+    "stitched": false,
+    "ends_at_episode_end": true,
+    "needs_editor_check": true,
+    "transcript": [
+      {
+        "t": 0.3,
+        "speaker": "DANIEL",
+        "tags": [
+          "shouting"
+        ],
+        "text": "Tobias, get out of my office!",
+        "voiceover": false
+      },
+      {
+        "t": 4.5,
+        "speaker": "TOBIAS",
+        "tags": [
+          "trembling"
+        ],
+        "text": "She has a right to know what happened that night.",
+        "voiceover": false
+      },
+      {
+        "t": 10.0,
+        "speaker": "DANIEL",
+        "tags": [
+          "furious"
+        ],
+        "text": "You swore you would never speak of it!",
+        "voiceover": false
+      },
+      {
+        "t": 15.8,
+        "speaker": "MARA",
+        "tags": [
+          "breathless",
+          "desperate"
+        ],
+        "text": "Tobias, what night? Tell me.",
+        "voiceover": false
+      },
+      {
+        "t": 19.4,
+        "speaker": "TOBIAS",
+        "tags": [
+          "haunted",
+          "quiet"
+        ],
+        "text": "The night the lamp went dark. Your father was not alone.",
+        "voiceover": false
+      },
+      {
+        "t": 24.4,
+        "speaker": "MARA",
+        "tags": [
+          "stunned"
+        ],
+        "text": "Who was with him?",
+        "voiceover": false
+      },
+      {
+        "t": 27.4,
+        "speaker": "TOBIAS",
+        "tags": [
+          "grave"
+        ],
+        "text": "Daniel. And a man in a grey coat.",
+        "voiceover": false
+      },
+      {
+        "t": 31.9,
+        "speaker": "MARA",
+        "tags": [
+          "incredulous"
+        ],
+        "text": "The Inspector? Vance was there?",
+        "voiceover": false
+      },
+      {
+        "t": 35.0,
+        "speaker": "VANCE",
+        "tags": [
+          "calm",
+          "menacing"
+        ],
+        "text": "Miss Hale. You ask too many questions.",
+        "voiceover": false
+      },
+      {
+        "t": 39.2,
+        "speaker": "MARA",
+        "tags": [
+          "startled",
+          "gasping"
+        ],
+        "text": "Inspector. How long have you been listening?",
+        "voiceover": false
+      },
+      {
+        "t": 43.7,
+        "speaker": "VANCE",
+        "tags": [
+          "cold",
+          "smiling"
+        ],
+        "text": "Long enough to know your father never drowned.",
+        "voiceover": false
+      }
+    ],
+    "rank": 4,
+    "rank_in_episode": 1,
+    "recommended": true
+  },
+  {
+    "promo_id": "EP001_00000_03060",
+    "episode": 1,
+    "segments": [
+      {
+        "episode": 1,
+        "start": 0.0,
+        "end": 30.6,
+        "start_ts": "00:00.00",
+        "end_ts": "00:30.60"
+      }
+    ],
+    "start_ts": "00:00.00",
+    "end_ts": "00:30.60",
+    "duration": 30.6,
+    "hook_at_s": 1.0,
+    "hook": "DANIEL (cold, dismissive): “You should not be here, Mara.”",
+    "cliffhanger": "DANIEL (shouting): “Tobias, get out of my office!”",
+    "cut_before": "TOBIAS (trembling): “She has a right to know what happened that night.”",
+    "why": "Opens on a line (DANIEL, cold); 8 speaker turns, mainly DANIEL vs MARA; ends on a threat/ultimatum (+ lands on a short, charged line).",
+    "score": 55.42,
+    "parts": {
+      "hook": 9.8,
+      "cliffhanger": 11.0,
+      "standalone": 14.0,
+      "tension": 10.62,
+      "pace": 10.0
+    },
+    "flags": [],
+    "judge": "heuristic",
+    "llm": null,
+    "kind": "peak",
+    "stitched": false,
+    "ends_at_episode_end": false,
+    "needs_editor_check": false,
+    "transcript": [
+      {
+        "t": 1.0,
+        "speaker": "DANIEL",
+        "tags": [
+          "cold",
+          "dismissive"
+        ],
+        "text": "You should not be here, Mara.",
+        "voiceover": false
+      },
+      {
+        "t": 5.2,
+        "speaker": "MARA",
+        "tags": [
+          "furious",
+          "shaking"
+        ],
+        "text": "Where is my father's ledger?",
+        "voiceover": false
+      },
+      {
+        "t": 8.8,
+        "speaker": "DANIEL",
+        "tags": [
+          "smug"
+        ],
+        "text": "Drowned men keep no accounts.",
+        "voiceover": false
+      },
+      {
+        "t": 12.7,
+        "speaker": "MARA",
+        "tags": [
+          "cold",
+          "cutting"
+        ],
+        "text": "He kept one. You burned it, didn't you?",
+        "voiceover": false
+      },
+      {
+        "t": 17.5,
+        "speaker": "DANIEL",
+        "tags": [
+          "low",
+          "threatening"
+        ],
+        "text": "Careful. Accusations like that sink people.",
+        "voiceover": false
+      },
+      {
+        "t": 21.4,
+        "speaker": "MARA",
+        "tags": [
+          "defiant"
+        ],
+        "text": "Then let me sink. I want the truth!",
+        "voiceover": false
+      },
+      {
+        "t": 25.2,
+        "speaker": "TOBIAS",
+        "tags": [
+          "urgent",
+          "whispering"
+        ],
+        "text": "Mara. Stop. Not here.",
+        "voiceover": false
+      },
+      {
+        "t": 27.9,
+        "speaker": "DANIEL",
+        "tags": [
+          "shouting"
+        ],
+        "text": "Tobias, get out of my office!",
+        "voiceover": false
+      }
+    ],
+    "rank": 5,
+    "rank_in_episode": 2,
+    "recommended": true
+  },
+  {
+    "promo_id": "EP003_00000_02680",
+    "episode": 3,
+    "segments": [
+      {
+        "episode": 3,
+        "start": 0.0,
+        "end": 26.8,
+        "start_ts": "00:00.00",
+        "end_ts": "00:26.80"
+      }
+    ],
+    "start_ts": "00:00.00",
+    "end_ts": "00:26.80",
+    "duration": 26.8,
+    "hook_at_s": 1.0,
+    "hook": "MARA (breathless): “The lens. It is hollow.”",
+    "cliffhanger": "DANIEL (furious, shouting): “Give me that letter!”",
+    "cut_before": "MARA (defiant, fierce): “Never. It is the only proof I have.”",
+    "why": "Opens on a line (MARA, breathless); 6 speaker turns, mainly MARA vs TOBIAS; lands on a short, charged line.",
+    "score": 44.67,
+    "parts": {
+      "hook": 7.8,
+      "cliffhanger": 6.0,
+      "standalone": 12.0,
+      "tension": 10.37,
+      "pace": 8.5
+    },
+    "flags": [],
+    "judge": "heuristic",
+    "llm": null,
+    "kind": "peak",
+    "stitched": false,
+    "ends_at_episode_end": false,
+    "needs_editor_check": false,
+    "transcript": [
+      {
+        "t": 1.0,
+        "speaker": "MARA",
+        "tags": [
+          "breathless"
+        ],
+        "text": "The lens. It is hollow.",
+        "voiceover": false
+      },
+      {
+        "t": 4.7,
+        "speaker": "TOBIAS",
+        "tags": [
+          "whispering",
+          "urgent"
+        ],
+        "text": "Quickly. I can hear his boots on the stairs.",
+        "voiceover": false
+      },
+      {
+        "t": 9.9,
+        "speaker": "MARA",
+        "tags": [
+          "stunned",
+          "gasping"
+        ],
+        "text": "There is a letter. It is my father's handwriting.",
+        "voiceover": false
+      },
+      {
+        "t": 15.1,
+        "speaker": "TOBIAS",
+        "tags": [
+          "haunted"
+        ],
+        "text": "Read it. Please. Before he arrives.",
+        "voiceover": false
+      },
+      {
+        "t": 18.3,
+        "speaker": "MARA",
+        "tags": [
+          "trembling",
+          "tearful"
+        ],
+        "text": "If you read this, I was right to hide. Vance is not what he seems.",
+        "voiceover": false
+      },
+      {
+        "t": 24.8,
+        "speaker": "DANIEL",
+        "tags": [
+          "furious",
+          "shouting"
+        ],
+        "text": "Give me that letter!",
+        "voiceover": false
+      }
+    ],
+    "rank": 6,
+    "rank_in_episode": 2,
+    "recommended": true
+  }
+]

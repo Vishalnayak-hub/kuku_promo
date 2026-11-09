@@ -1,0 +1,21 @@
+# environments / caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.llm_cache/
+.streamlit/secrets.toml
+# secrets
+.env
+.env.*
+!.env.example
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Kuku's confidential content and anything that quotes it - never publish these
+data/
+outputs/
+submission/raw_outputs/
